@@ -1,3 +1,7 @@
 def square_array(array)
-  # your code here
+  brothers = ["Tim", "Tom", "Jim"]
+  brothers.each do |brother|
+    puts "Stop hitting yourself #{brother}!"
+  end
+
 end
