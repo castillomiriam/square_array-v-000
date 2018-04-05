@@ -4,4 +4,3 @@ def square_array(array)
     puts "Stop hitting yourself #{brother}!"
   end
 
-end
